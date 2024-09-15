@@ -1,0 +1,18 @@
+#wpai_content_generator .inside {
+    margin: 0;
+    padding: 10px;
+}
+
+#wpai_prompt {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#wpai_generate_button {
+    width: 100%;
+}
+
+#wpai_loading {
+    text-align: center;
+    margin-top: 10px;
+}
