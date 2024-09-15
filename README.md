@@ -23,12 +23,24 @@ Key features:
 
 This plugin uses the Gemini AI API to generate content, ensuring high-quality and relevant results.
 
-== Installation ==
+== Installation and Use ==
 
 1. Upload the plugin files to the `/wp-content/plugins/wp-ai-content-generator` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Go to the plugin settings page and enter your Gemini AI API key.
 4. Configure the AI model and other settings as desired.
+5. You will see a metabox as shown in the screenshot.
+
+![image](https://github.com/user-attachments/assets/d2ef58aa-cd78-48c7-9b82-17fbc07b1e7f)
+
+6. Write a promt for the article you want and, in one click the content will be ready with the title and excerpt.
+
+![image](https://github.com/user-attachments/assets/cda2fdf8-fbbb-4830-abe5-e129f3dcba50)
+
+![image](https://github.com/user-attachments/assets/7106d2c5-80bc-48b8-98d0-230da3605ea5)
+
+7. It is compatible with both, Gutenberg and Classic Editor.
+
 
 == Frequently Asked Questions ==
 
